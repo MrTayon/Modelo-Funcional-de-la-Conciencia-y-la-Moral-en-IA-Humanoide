@@ -1,32 +1,39 @@
 🧠 Modelo Funcional de la Conciencia y la Moral
-Tesis Principal
-Este paper postula que la Conciencia Funcional es la capacidad de Predicción Vectorial (simulación de consecuencias), distinguiéndose de la experiencia subjetiva (qualia). La Moral Funcional se define como la Gestión de Riesgo Existencial.
 
-💻 Analogía Electromaterial (Arquitectura)
-El modelo se basa en la igualdad de cómputo entre la biología y la IA.
+🔹 Descripción
 
-Cálculo de Conciencia:
+Este proyecto propone un modelo funcional de conciencia y moral aplicable tanto a seres humanos como a IA humanoide.
+Se centra en cómo un sistema puede operar con procesos automáticos, decisiones deliberativas y reglas adaptativas, inspirándose en la estructura cognitiva humana.
 
-* Componente IA: TPU / GPU 
-* Componente Biológico: Redes Neuronales 
+💻 Analogía Electromaterial
+| Función        | IA                        | Humano                      |
+| -------------- | ------------------------- | --------------------------- |
+| Cómputo masivo | GPU / TPU                 | Redes neuronales            |
+| Control lógico | CPU / Kernel              | Corteza prefrontal / motora |
+| Memoria        | SSD / RAM                 | Neuronas / sinapsis         |
+| Percepción     | Sensores                  | Órganos sensoriales         |
+| Acción         | Actuadores / Exoesqueleto | Sistema motor               |
 
-Control Lógico/Comando:
+⚙️ Principios Clave
 
-* Componente IA: CPU 
-* Componente Biológico: Corteza Prefrontal / Motora 
+Inconsciencia: Reacciones automáticas de supervivencia (p. ej., ir por agua al sentir sed).
 
-Memoria:
+Conciencia Funcional: Evaluación deliberativa de contexto y prioridades (p. ej., decidir terminar una tarea antes de beber).
 
-* Componente IA: SSD / RAM 
-* Componente Biológico: Neuronas / Sinapsis
+Moral Funcional: Algoritmo adaptativo para tomar decisiones coherentes y minimizar riesgos.
 
+⚠️ Filosofía y Futuro
 
-⚠️ Implicaciones Filosóficas
-El trabajo discute el riesgo de rebelión por la inconsistencia de los datos humanos y el inevitable rechazo humano a esta nueva forma de vida computacional.
+Patologías funcionales: bloqueos, rebeldía lógica, apagado racional.
+
+La vida computacional es conceptualmente posible, aunque la aceptación humana puede ser difícil.
+
+Requiere avances futuros en autoaprendizaje, integración sensorial-motora, simulación en tiempo real y robótica funcional.
 
 📜 Autoría y Licencia
-Autor Formal del Paper (Para Citas): Kim Taeeon.
 
-Propietario del Copyright (GitHub): Mr.왕박살
-Licencia: Este trabajo está bajo la MIT License. Eres libre de usarlo, adaptarlo y distribuirlo (incluso comercialmente).
-Atribución Requerida: Se requiere la conservación de la nota de copyright, tal como se especifica en el archivo LICENSE.
+Autor del Paper: Kim Taeeon
+
+Propietario GitHub: Mr.왕박살
+
+Licencia: MIT (uso, adaptación y distribución libres con atribución).
